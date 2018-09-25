@@ -1,0 +1,6 @@
+>f_name1
+AATTGGCCCCC
+
+>f_name2
+AAAAAATTGGCCC
+

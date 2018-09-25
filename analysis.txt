@@ -1,0 +1,15 @@
+Sequence analysis results:
+
+File with longest matching region within group:
+fs1_3k: : 0
+fs2_3k: : 0
+fs3_3k: : 0
+fs4_3k: : 0
+fs5_3k: : 0
+fs6_3k: : 0
+rs1_3k: : 0
+f3k: : 0
+f2mabp12kbp_: : 0
+f06kbp_: : 0
+r06kbp_: : 0
+

@@ -1,0 +1,12 @@
+>f_name1
+AATTGGCCCCC
+
+>f_name2
+AAAAAATTGGCCC
+
+>r_name1
+ATAATTGGCC
+
+>r_name2
+ATAATTGGCCAT
+

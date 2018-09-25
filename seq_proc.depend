@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1510047185 source:e:\cpp\sec_proc\seq_proc - new\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<stdio.h>
+	<windows.h>
+	<dirent.h>
+

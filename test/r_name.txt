@@ -1,0 +1,6 @@
+>r_name1
+ATAATTGGCC
+
+>r_name2
+ATAATTGGCCAT
+
